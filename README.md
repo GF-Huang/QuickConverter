@@ -1,6 +1,9 @@
 # QuickConverter.NetCore
 ### This is port from [QuickConverter](https://github.com/JohannesMoersch/QuickConverter) for .NET Core 3.1 and .NET 5.
 
+# NuGet
+https://www.nuget.org/packages/QuickConverter.NetCore/
+
 QuickConverter provides you with WPF markup that allows you to write inline converters, multi-bindings, and event handlers using a C# like language directly in your xaml.
 
 Even though QuickConverter compiles converter expressions at runtime, its use introduces very little overhead. QuickConverter takes advantage of expression trees and caching to make compilation of dynamically parsed expressions very efficient. 
